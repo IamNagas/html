@@ -1,0 +1,52 @@
+document tags
+1.html 
+2.head
+3.body
+
+document structure tags
+1.div
+2.section
+3.article
+4.header 
+5.footer
+
+text formatting tags
+1.paragraph
+2.h1,h2,h3,h4,h5,h6,
+3.bold 
+4.strong 
+5.i-verify
+6.span
+
+link tags
+1.anchor  <a ref="services.html" <a/>
+image tags
+<img/>
+
+list tags
+1.un order list ul
+2.order list  ol
+3.li
+
+table tags
+<thread>
+<tr>
+<tbody>
+<td>
+<th>
+
+HTML 5 new tags
+
+sematic tags
+<audio>
+<video>
+
+frame tags
+<iframe>
+
+form tags 
+<label>
+ <input/>
+ <buttom>
+ <textarea>
+ <optional>
